@@ -1,16 +1,54 @@
-# face_recognition
+# 🚀 Face Recognition App (Flutter + AI)
 
-A new Flutter project.
+A modern **Face Recognition Mobile Application** built using **Flutter** and powered by **TFLite (FaceNet model)**.  
+This app compares two images and determines whether they belong to the same person with high accuracy.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Demo
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="assets/demo1.png" width="250"/>
+  <img src="assets/demo2.png" width="250"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🔍 Face Detection from images
+- 🤖 AI-based Face Matching (FaceNet TFLite)
+- ⚡ Real-time comparison results
+- 📊 Similarity score calculation
+- 🧠 Lightweight on-device ML model (no server needed)
+- 🎯 Clean and responsive UI
+- 🧩 Feature-based architecture
+
+---
+
+## 🧠 How It Works
+
+1. Select two images
+2. Detect faces using ML model
+3. Extract facial embeddings
+4. Compare embeddings using distance metrics
+5. Show result → **Match / Not Match**
+
+> Face recognition systems generally work by detecting, analyzing, and comparing facial features to identify similarity between images :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology       | Usage |
+|------------------|------|
+| Flutter          | UI Development |
+| Dart             | Programming Language |
+| TFLite           | On-device ML inference |
+| FaceNet Model    | Face embedding generation |
+| GetX             | State Management |
+| Clean Architecture | Scalable structure |
+
+---
+
+## 📂 Project Structure
