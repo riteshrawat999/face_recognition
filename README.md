@@ -5,14 +5,15 @@ This app compares two images and determines whether they belong to the same pers
 
 ---
 
-## 📸 Demo
-
+## 🔍 App Preview
 <p align="center">
-  <img src="assets/demo1.png" width="250"/>
-  <img src="assets/demo2.png" width="250"/>
+  <img src="assets/screenshots/splash.jpg" width="180"/>
+  <img src="assets/screenshots/home.jpg" width="180"/>
+  <img src="assets/screenshots/match.jpg" width="180"/>
+  <img src="assets/screenshots/not_match.jpg" width="180"/>
 </p>
+<p align="center"><i>Face Detection • Matching • Result Screen</i></p>
 
----
 
 ## ✨ Features
 
