@@ -51,4 +51,26 @@ This app compares two images and determines whether they belong to the same pers
 
 ---
 
-## 📂 Project Structure
+### 🧩 Structure Explanation
+
+- **features/** → Core app modules (feature-based architecture)
+- **binding/** → Dependency injection (GetX bindings)
+- **controller/** → Business logic & state management
+- **model/** → Data models
+- **screens/** → UI screens
+- **widgets/** → Reusable UI components
+- **routes/** → Navigation management
+- **utils/** → Common helpers & utilities
+- **main.dart** → App entry point
+
+---
+## 👨‍💻 Author
+
+**Ritesh Kumar**  
+Flutter Developer | AI Enthusiast  
+
+- 🔗 GitHub: https://github.com/riteshrawat999  
+- 💼 LinkedIn: https://www.linkedin.com/in/ritesh-flutter
+- 📧 Email: ritesh.flutter@gmail.com
+
+---
